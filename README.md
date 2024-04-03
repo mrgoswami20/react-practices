@@ -1,4 +1,3 @@
-```markdown
 # React Practice Journey README
 
 Welcome to my React practice journey! 🚀
