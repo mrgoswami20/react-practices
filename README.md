@@ -4,13 +4,13 @@ Welcome to my React practice journey! 🚀
 
 ## Introduction
 
-I'm excited to embark on this journey to hone my skills in React and its related technologies. This README will serve as a record of my progress and goals throughout this endeavor.
+I'm excited to embark on this journey to hone my skills in React and its related technologies. This README will serve as a record of my progress and goals throughout this endeavour.
 
 ## Goals
 
 - **Practice React:** I aim to deepen my understanding of React by working on various projects, implementing different features, and experimenting with different approaches.
   
-- **Master Redux:** Understanding and effectively implementing Redux is a key aspect of modern React development. I will dedicate time to learning Redux principles and integrating it into my projects.
+- **Master Redux:** Understanding and effectively implementing Redux is a key aspect of modern React development. I will dedicate time to learning and integrating Redux principles into my projects.
   
 - **JavaScript Proficiency:** JavaScript is the backbone of React development. I will continue to enhance my JavaScript skills, exploring advanced concepts and best practices.
   
@@ -45,7 +45,7 @@ Feel free to suggest any additional resources that you find helpful!
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
 - Email: [rohitrajgoswami12@gmail.com](mailto:rohitrajgoswami12@gmail.com)
-- LinkedIn: [linkedin/rohit-goswami]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rohit-kumar-goswami-b25040208))
+- LinkedIn: [linkedin/rohit-goswami](https://www.linkedin.com/in/rohit-kumar-goswami-b25040208)
 - Twitter: [@Rohitku05644914](https://twitter.com/Rohitku05644914)
 
 Let's learn and grow together! 🌱
