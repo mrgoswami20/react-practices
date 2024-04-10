@@ -63,7 +63,7 @@ const GamePage = () => {
           className=" max-w-52 cursor-pointer active:scale-90"
         />
         <p>click on Dice to roll</p>
-        <Button text="Reset Score" type="secondary" />
+        <Button text="Reset Score" onClick={()=>setShowScore(0)} type="secondary" />
         <Button text="Show Rules" onClick={()=>setShowRules((prev)=>!prev)} type="primary" />
         {showRules ? <div className="flex flex-col justify-center items-start max-h-48 bg-purple-100 p-4 mt-3 ">
           <p className="font-semibold text-xl pb-1">How to play dice game</p>
