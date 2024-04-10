@@ -18,8 +18,7 @@ const GamePage = () => {
     function diceImageHandler() {
         let randNum = Math.floor(Math.random() * 6);
         setDiceImage(diceMapper[randNum + 1]);
-        console.log(diceMapper[randNum+ 1])
-        if (clicked == randNum) setShowScore((prev) => prev + clicked);
+        if (clicked == randNum + 1) setShowScore((prev) => prev + clicked);
         else setShowScore((prev) => prev - 2);
     }
 
