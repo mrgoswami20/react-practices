@@ -13,7 +13,7 @@ const Home = () => {
       <img src={dicesImage} alt="" />
       <div>
         <h1 className="text-8xl font-semibold pb-4">DICE GAME</h1>
-        <div className="flex justify-end">
+        <div className="flex justify-end p-2">
           <Button text="Play Now" onClick={startGame} type='primary'/>
         </div>
       </div>

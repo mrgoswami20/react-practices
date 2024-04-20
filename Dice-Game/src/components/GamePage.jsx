@@ -26,7 +26,7 @@ const GamePage = () => {
 
   return (
     <div className="p-16 min-h-screen">
-      <div className="flex justify-between">
+      <div className="md:flex justify-between">
         <div className="flex flex-col items-center justify-center">
           <h1 className="text-7xl">{showScore}</h1>
           <p className="text-lg font-[700]">Total Score</p>
