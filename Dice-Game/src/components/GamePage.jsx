@@ -39,7 +39,7 @@ const GamePage = () => {
             {arrayNum.map((value, i) =>
               (
                 <button
-                  className={`border-solid border-2 m-2 px-5 p-4 cursor-pointer ${value===clicked && 'bg-black text-white'}`}
+                  className={`border-solid border-2 m-2  px-5 p-4 cursor-pointer ${value===clicked && 'bg-black text-white'}`}
                   key={i}
                   onClick={()=>setChooseNumber(value) }
                 >

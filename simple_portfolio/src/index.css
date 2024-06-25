@@ -1,7 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap'); */
 
 :root {
   font-family: "Poppins", sans-serif;
+  /* --primary-color: #000106;
+  --secondary-color: #fff; */
+
+  --primary-color: #edf2fc;
+  --secondary-color: #212121;
+
 }
+
+html{
+  scroll-behavior: smooth;
+}
+
+

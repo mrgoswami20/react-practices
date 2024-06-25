@@ -3,7 +3,8 @@ import profileImage from "../assets/profile.png";
 
 function Home() {
   return (
-    <div className="bg-white flex md:justify-center items-center h-screen">
+    <div className="bg-white dark:bg-slate-800 flex md:justify-center items-center h-screen" id="home">
+      {/* -----------------------------------Profile----------------------------------- */}
       <div className="flex flex-col md:gap-1">
         <p className="font-medium md:text-6xl text-3xl pl-4">
           Hi, <br />I am Rohit Kumar Goswami
@@ -12,13 +13,14 @@ function Home() {
           a Blockchain Developer
         </p>
         <div>
-          <button className=" border-purple-400 border-2 rounded-md hover:text-white hover:bg-purple-400 active:scale-50 p-2 md:m-4 ml-4 md:animate-bounce ">
+          <button className=" border-purple-400 border-2 rounded-md hover:text-white hover:bg-purple-400 active:scale-50 p-2 md:m-4 ml-4">
             Hire me
           </button>
         </div>
       </div>
+      {/* -----------------------------------Profile Image----------------------------------- */}
       <div>
-        <img className="w-[40rem]" src={profileImage} />
+        <img className="md:w-[40rem]" src={profileImage} />
       </div>
     </div>
   );
